@@ -1,13 +1,26 @@
+// app.component.ts
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { HomeSectionComponent } from './components/home-section/home-section.component';
+import { AboutUsSectionComponent } from './components/about-us-section/about-us-section.component';
+import { ContactSectionComponent } from './components/contact-section/contact-section.component';
+import { ServicesSectionComponent } from './components/services-section/services-section.component';
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [
+    RouterOutlet, 
+    HomeSectionComponent, 
+    AboutUsSectionComponent, 
+    ContactSectionComponent, 
+    ServicesSectionComponent,
+],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrls: ['./app.component.css'] // o .scss
 })
 export class AppComponent {
-  title = 'splm';
+  title = 'SPLM - Seguridad Privada de Los Mochis';
+  anioActual = new Date().getFullYear();
 }

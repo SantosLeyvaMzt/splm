@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Seguridad Privada de Los Mochis",
+    "subtitle": "¡Estar siempre con el mejor es querer ser igual o mejor que él!",
+    "ctaButton": "¡Cotiza sin compromiso!"
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "mission": {
+      "title": "Misión",
+      "text": "Ser el mejor grupo de seguridad privada del noroeste de México satisfaciendo las necesidades de nuestros clientes mediante servicios de seguridad integral, con personal, equipo y tecnología de vanguardia respaldados por profesionales con ética, experiencia y alto sentido de responsabilidad, disciplina y honestidad, brindando atención con calidad y excelencia."
+    },
+    "vision": {
+      "title": "Visión",
+      "text": "Ser una empresa integral en seguridad privada, otorgando servicios de excelente calidad, contando con los mejores elementos y equipo de trabajo, para que en conjunto con los objetivos de los accionistas cumpla los objetivos de desarrollo familiar."
+    },
+    "values": {
+      "title": "Valores",
+      "text": "Compromiso con el cliente, calidad integral, trabajo en equipo, disciplina, honradez y respeto."
+    }
+  },
+  "footer": {
+    "copyright": "© {{ anioActual }} SPLM. Todos los derechos reservados."
+  }
+}

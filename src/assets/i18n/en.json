@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Private Security of Los Mochis",
+    "subtitle": "To always be with the best is to want to be equal or better than them!",
+    "ctaButton": "Get a quote without obligation!"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Mission",
+      "text": "To be the best private security group in northwestern Mexico, satisfying the needs of our clients through comprehensive security services, with cutting-edge personnel, equipment, and technology, backed by professionals with ethics, experience, and a high sense of responsibility, discipline, and honesty, providing service with quality and excellence."
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "To be a comprehensive private security company, providing excellent quality services, with the best elements and work team, so that together with the objectives of the shareholders, it meets the objectives of family development."
+    },
+    "values": {
+      "title": "Values",
+      "text": "Commitment to the client, integral quality, teamwork, discipline, honesty, and respect."
+    }
+  },
+  "footer": {
+    "copyright": "© {{ anioActual }} SPLM. All rights reserved."
+  }
+}
