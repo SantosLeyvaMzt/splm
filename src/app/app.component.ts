@@ -21,6 +21,6 @@ import { ServicesSectionComponent } from './components/services-section/services
   styleUrls: ['./app.component.css'] // o .scss
 })
 export class AppComponent {
-  title = 'SPLM - Seguridad Privada de Los Mochis';
+  title = 'Seguridad Privada SPLM';
   anioActual = new Date().getFullYear();
 }
