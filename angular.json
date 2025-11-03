@@ -9,6 +9,14 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "es-MX",
+            "locales": {
+                "en-US": {
+                "translation": "src/locale/messages.en.xlf"
+                }
+            }
+        },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
@@ -52,12 +60,23 @@
                   "maximumError": "4kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "localize": true,
+              "baseHref": "/"
             },
             "development": {
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
+            },
+            "en": {
+              "localize": [ "en-US" ],
+              "baseHref": "/en-US/"
+            },
+            "i18n-prod": {
+                "localize": ["es-MX", "en-US"],
+                "optimization": true,
+                "outputHashing": "all"
             }
           },
           "defaultConfiguration": "production"
@@ -68,8 +87,14 @@
             "production": {
               "buildTarget": "splm:build:production"
             },
+            "en": {
+              "buildTarget": "splm:build:en"
+            },
             "development": {
               "buildTarget": "splm:build:development"
+            },
+            "i18n-prod": {
+                "buildTarget": "splm:build:i18n-prod"
             }
           },
           "defaultConfiguration": "development"
@@ -77,7 +102,8 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "splm:build"
+            "buildTarget": "splm:build",
+            "outputPath": "src/locale"
           }
         },
         "test": {

@@ -9,16 +9,29 @@
     <div class="collapse navbar-collapse" id="navbarNav" style="justify-content: flex-end;">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#inicio">Inicio</a>
+          <a class="nav-link active" aria-current="page" href="#inicio" i18n>Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#servicios">Servicios</a>
+          <a class="nav-link" href="#servicios" i18n>Servicios</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#nosotros">Nosotros</a>
+          <a class="nav-link" href="#nosotros" i18n>Nosotros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contacto">Contacto</a>
+          <a class="nav-link" href="#contacto" i18n>Contacto</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" i18n>
+            Idioma
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+                <li>
+                    <a class="dropdown-item" [href]="getLocalizedUrl('es-MX')">🇲🇽 Español</a>
+                </li>
+                <li>
+                    <a class="dropdown-item" [href]="getLocalizedUrl('en-US')">🇺🇸 English</a>
+                </li>
+            </ul>
         </li>
       </ul>
     </div>
@@ -34,7 +47,7 @@
 
 <footer class="bg-light text-purple text-center fw-bold py-3">
     <div class="container">
-        <p class="mb-0">&copy; {{ anioActual }} SPLM. Todos los derechos reservados.</p>
+        <p class="mb-0" i18n>&copy; {{ anioActual }} SPLM. Todos los derechos reservados.</p>
     </div>
 </footer>
 

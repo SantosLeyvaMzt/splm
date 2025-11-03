@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es-MX" datatype="plaintext" original="ng2.template">
+    <body>
+    <trans-unit id="1926157928707021468" datatype="html">
+        <source>Inicio</source>
+        <target>Home</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>|
+      </trans-unit>
+      <trans-unit id="5962081135827219847" datatype="html">
+        <source>Servicios</source>
+        <target>Services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3480945603039493420" datatype="html">
+        <source>Nosotros</source>
+        <target>About Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8433768950518578342" datatype="html">
+        <source>Contacto</source>
+        <target>Contact Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="846922943334656691" datatype="html">
+        <source> Idioma </source>
+        <target> Language </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1508695271729173628" datatype="html">
+        <source>© <x id="INTERPOLATION" equiv-text="{{ anioActual }}"/> SPLM. Todos los derechos reservados.</source>
+        <target>© <x id="INTERPOLATION" equiv-text="{{ anioActual }}"/> SPLM. All rights reserved.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6202953000557236686" datatype="html">
+        <source>Acerca de Nosotros</source>
+        <target>About Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7677932479664067591" datatype="html">
+        <source>Misión</source>
+        <target>Mission</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7586991293980014835" datatype="html">
+        <source>Ser el mejor grupo de seguridad privada del noroeste de México satisfaciendo las necesidades de nuestros clientes mediante servicios de seguridad integral, con personal, equipo y tecnología de vanguardia respaldados por profesionales con ética, experiencia y alto sentido de responsabilidad, disciplina y honestidad, brindando atención con calidad y excelencia.</source>
+        <target>To be the best private security group in northwestern Mexico, meeting the needs of our clients through comprehensive security services, with cutting-edge personnel, equipment, and technology backed by professionals with ethics, experience, and a high sense of responsibility, discipline, and honesty, providing quality and excellence in service.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">10,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4058019957368460587" datatype="html">
+        <source>Visión</source>
+        <target>Vision</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1436771692183263048" datatype="html">
+        <source>Ser una empresa integral en seguridad privada, otorgando servicios de excelente calidad, contando con los mejores elementos y equipo de trabajo, para que en conjunto con los objetivos de los accionistas cumpla los objetivos de desarrollo familiar.</source>
+        <target>To be a comprehensive private security company, providing excellent quality services, with the best personnel and equipment, so that, in conjunction with the objectives of the shareholders, it fulfills the objectives of family development.</target>
+ 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">22,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="577152975227527516" datatype="html">
+        <source>Valores</source>
+        <target>Values</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3145935857375289094" datatype="html">
+        <source>Compromiso con el cliente, calidad integral, trabajo en equipo, disciplina, honradez y respeto.</source>
+        <target>Commitment to the customer, comprehensive quality, teamwork, discipline, honesty, and respect.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5952658735763058093" datatype="html">
+        <source>Contáctanos</source>
+        <target>Contact Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5144982062059129653" datatype="html">
+        <source>Envíanos un Mensaje</source>
+        <target>Send Us a Message</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8632383814220706354" datatype="html">
+        <source>Nombre Completo</source>
+        <target>Full Name</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4868888201950564133" datatype="html">
+        <source>Correo Electrónico</source>
+        <target>Email Address</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6181392829528060012" datatype="html">
+        <source>Mensaje</source>
+        <target>Message</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4081188298628229997" datatype="html">
+        <source>Enviar Mensaje</source>
+        <target>Send Message</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5230546646552564016" datatype="html">
+        <source>Nuestra Información</source>
+        <target>Our Information</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3366181745342000700" datatype="html">
+        <source>Domicilio:</source>
+        <target>Address:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4007134326819420953" datatype="html">
+        <source>Correo:</source>
+        <target>Email:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8224231226631018676" datatype="html">
+        <source>Síguenos</source>
+        <target>Follow Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact-section/contact-section.component.html</context>
+          <context context-type="linenumber">47,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1139600927446579192" datatype="html">
+        <source>Seguridad Privada SPLM</source>
+        <target>Private Security SPLM</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8883009948034427109" datatype="html">
+        <source>¡Estar siempre con el mejor es querer ser igual o mejor que él!</source>
+        <target>To always be with the best is to want to be equal to or better than them!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5749288663553273322" datatype="html">
+        <source>¡Cotiza sin compromiso!</source>
+        <target>Quote without commitment!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8885853979461402576" datatype="html">
+        <source>Nuestros Servicios</source>
+        <target>Our Services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6196908453323424387" datatype="html">
+        <source>Guardias ejecutivos</source>
+        <target>Executive Guards</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6324288052171923210" datatype="html">
+        <source>Servicios de custodios</source>
+        <target>Custody Services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2728776342006025158" datatype="html">
+        <source>Guardia policiaco</source>
+        <target>Police Guard</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8593757503938025196" datatype="html">
+        <source>En ranchos</source>
+        <target>In ranches</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8936206714366191701" datatype="html">
+        <source>En bodegas</source>
+        <target>In warehouses</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">51,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2846405180210254411" datatype="html">
+        <source>En empresas</source>
+        <target>In companies</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="536640282652053011" datatype="html">
+        <source>En escuelas</source>
+        <target>In schools</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2624956237408983440" datatype="html">
+        <source>En casa habitación</source>
+        <target>In house</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">87,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1335062624514261036" datatype="html">
+        <source>En hospitales</source>
+        <target>In hospitals</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
