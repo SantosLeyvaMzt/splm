@@ -41,7 +41,7 @@
         <source>© <x id="INTERPOLATION" equiv-text="{{ anioActual }}"/> SPLM. Todos los derechos reservados.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">46,47</context>
+          <context context-type="linenumber">50,51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6202953000557236686" datatype="html">
@@ -86,11 +86,25 @@
           <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3145935857375289094" datatype="html">
-        <source>Compromiso con el cliente, calidad integral, trabajo en equipo, disciplina, honradez y respeto..</source>
+      <trans-unit id="4769088005049147755" datatype="html">
+        <source>Compromiso con el cliente, calidad integral, trabajo en equipo, disciplina, honradez y respeto.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
           <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6844429225628881161" datatype="html">
+        <source>Contamos con:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6833998282803148195" datatype="html">
+        <source> - Supervisión 24 horas. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Capacitación de personal constante. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Medición de calidad. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Unidades de traslado de personal. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - 30 años de experiencia nos respaldan. Somos líderes en la zona norte del estado de Sinaloa. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">41,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5952658735763058093" datatype="html">
@@ -163,25 +177,25 @@
           <context context-type="linenumber">47,48</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1139600927446579192" datatype="html">
-        <source>Seguridad Privada SPLM</source>
+      <trans-unit id="8485477785096637222" datatype="html">
+        <source>Seguridad Privada Grupo SPLM</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
-          <context context-type="linenumber">3,4</context>
+          <context context-type="linenumber">5,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8883009948034427109" datatype="html">
         <source>¡Estar siempre con el mejor es querer ser igual o mejor que él!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
-          <context context-type="linenumber">4,5</context>
+          <context context-type="linenumber">6,7</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5749288663553273322" datatype="html">
         <source>¡Cotiza sin compromiso!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home-section/home-section.component.html</context>
-          <context context-type="linenumber">5,6</context>
+          <context context-type="linenumber">7,8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8885853979461402576" datatype="html">
@@ -191,67 +205,81 @@
           <context context-type="linenumber">3,4</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6196908453323424387" datatype="html">
-        <source>Guardias ejecutivos</source>
+      <trans-unit id="8688228051003621992" datatype="html">
+        <source>Elementos rango élite</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">10,11</context>
+          <context context-type="linenumber">4,5</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6324288052171923210" datatype="html">
-        <source>Servicios de custodios</source>
+      <trans-unit id="1301513449145606454" datatype="html">
+        <source>Ejecutivos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">20,21</context>
+          <context context-type="linenumber">11,12</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2728776342006025158" datatype="html">
-        <source>Guardia policiaco</source>
+      <trans-unit id="3627331887004693066" datatype="html">
+        <source>Custodios</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">29,30</context>
+          <context context-type="linenumber">21,22</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8593757503938025196" datatype="html">
-        <source>En ranchos</source>
+      <trans-unit id="7139976422010006985" datatype="html">
+        <source>Policiacos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">42,43</context>
+          <context context-type="linenumber">30,31</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8936206714366191701" datatype="html">
-        <source>En bodegas</source>
+      <trans-unit id="4002100589586313996" datatype="html">
+        <source>Servicios especializados de seguridad en</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">51,52</context>
+          <context context-type="linenumber">37,38</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2846405180210254411" datatype="html">
-        <source>En empresas</source>
+      <trans-unit id="6807388090096380108" datatype="html">
+        <source>Ranchos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">60,61</context>
+          <context context-type="linenumber">44,45</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="536640282652053011" datatype="html">
-        <source>En escuelas</source>
+      <trans-unit id="1066301520126189313" datatype="html">
+        <source>Bodegas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">69,70</context>
+          <context context-type="linenumber">53,54</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2624956237408983440" datatype="html">
-        <source>En casa habitación</source>
+      <trans-unit id="456058289292606254" datatype="html">
+        <source>Empresas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">87,88</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6679293063823221089" datatype="html">
+        <source>Escuelas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1079640602027799413" datatype="html">
+        <source>Casa habitación</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
+          <context context-type="linenumber">89,90</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1335062624514261036" datatype="html">
         <source>En hospitales</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services-section/services-section.component.html</context>
-          <context context-type="linenumber">96,97</context>
+          <context context-type="linenumber">98,99</context>
         </context-group>
       </trans-unit>
     </body>

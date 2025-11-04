@@ -21,7 +21,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css'] // o .scss
 })
 export class AppComponent {
-    title = 'Seguridad Privada SPLM';
+    title = 'Seguridad Privada Grupo SPLM';
     anioActual = new Date().getFullYear();
 
     // Inyectamos LOCALE_ID para obtener el locale del bundle actual (ej. 'es-MX' o 'en-US')
