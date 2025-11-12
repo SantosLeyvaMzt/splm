@@ -51,60 +51,81 @@
           <context context-type="linenumber">3,4</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="6801758860923122159" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>&quot;30 años de experiencia nos respaldan. Somos líderes en la zona norte del estado de Sinaloa.&quot;<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="7677932479664067591" datatype="html">
         <source>Misión</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">9,10</context>
+          <context context-type="linenumber">11,12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7586991293980014835" datatype="html">
         <source>Ser el mejor grupo de seguridad privada del noroeste de México satisfaciendo las necesidades de nuestros clientes mediante servicios de seguridad integral, con personal, equipo y tecnología de vanguardia respaldados por profesionales con ética, experiencia y alto sentido de responsabilidad, disciplina y honestidad, brindando atención con calidad y excelencia.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">10,14</context>
+          <context context-type="linenumber">12,16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4058019957368460587" datatype="html">
         <source>Visión</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">21,22</context>
+          <context context-type="linenumber">23,24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1436771692183263048" datatype="html">
         <source>Ser una empresa integral en seguridad privada, otorgando servicios de excelente calidad, contando con los mejores elementos y equipo de trabajo, para que en conjunto con los objetivos de los accionistas cumpla los objetivos de desarrollo familiar.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">22,25</context>
+          <context context-type="linenumber">24,27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="577152975227527516" datatype="html">
         <source>Valores</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">31,32</context>
+          <context context-type="linenumber">33,34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4769088005049147755" datatype="html">
         <source>Compromiso con el cliente, calidad integral, trabajo en equipo, disciplina, honradez y respeto.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">32,33</context>
+          <context context-type="linenumber">34,35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6844429225628881161" datatype="html">
         <source>Contamos con:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">39,40</context>
+          <context context-type="linenumber">41,42</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6833998282803148195" datatype="html">
-        <source> - Supervisión 24 horas. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Capacitación de personal constante. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Medición de calidad. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Unidades de traslado de personal. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - 30 años de experiencia nos respaldan. Somos líderes en la zona norte del estado de Sinaloa. </source>
+      <trans-unit id="3049874298061776507" datatype="html">
+        <source> - Supervisión 24 horas. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Capacitación de personal constante. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Medición de calidad. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Unidades de traslado de personal. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">41,46</context>
+          <context context-type="linenumber">43,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2432406668160577563" datatype="html">
+        <source>Unidades de traslado</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9040621299939166839" datatype="html">
+        <source>Nuestras instalaciones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">60,61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5952658735763058093" datatype="html">

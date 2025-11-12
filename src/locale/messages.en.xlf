@@ -58,12 +58,20 @@
           <context context-type="linenumber">3,4</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="6801758860923122159" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>&quot;30 años de experiencia nos respaldan. Somos líderes en la zona norte del estado de Sinaloa.&quot;<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>&quot;We have 30 years of experience behind us. We are leaders in the northern part of the state of Sinaloa.&quot;<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="7677932479664067591" datatype="html">
         <source>Misión</source>
         <target>Mission</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">9,10</context>
+          <context context-type="linenumber">11,12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7586991293980014835" datatype="html">
@@ -71,7 +79,7 @@
         <target>To be the best private security group in northwestern Mexico, meeting the needs of our clients through comprehensive security services, with cutting-edge personnel, equipment, and technology backed by professionals with ethics, experience, and a high sense of responsibility, discipline, and honesty, providing quality and excellence in service.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">10,14</context>
+          <context context-type="linenumber">12,16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4058019957368460587" datatype="html">
@@ -79,7 +87,7 @@
         <target>Vision</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">21,22</context>
+          <context context-type="linenumber">23,24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1436771692183263048" datatype="html">
@@ -88,7 +96,7 @@
  
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">22,25</context>
+          <context context-type="linenumber">24,27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="577152975227527516" datatype="html">
@@ -96,7 +104,7 @@
         <target>Values</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">31,32</context>
+          <context context-type="linenumber">33,34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4769088005049147755" datatype="html">
@@ -104,7 +112,7 @@
         <target>Commitment to the customer, comprehensive quality, teamwork, discipline, honesty, and respect.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">32,33</context>
+          <context context-type="linenumber">34,35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6844429225628881161" datatype="html">
@@ -112,16 +120,31 @@
         <target>We have:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">39,40</context>
+          <context context-type="linenumber">41,42</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6833998282803148195" datatype="html">
-        <source> - Supervisión 24 horas. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Capacitación de personal constante. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Medición de calidad. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Unidades de traslado de personal. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - 30 años de experiencia nos respaldan. Somos líderes en la zona norte del estado de Sinaloa. </source>
-        <target> - 24-hour supervision. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Constant personnel training. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Quality measurement. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Personnel transfer units. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - We have 30 years of experience behind us. We are leaders in the northern part of the state of Sinaloa. </target>
-
+      <trans-unit id="3049874298061776507" datatype="html">
+        <source> - Supervisión 24 horas. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Capacitación de personal constante. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Medición de calidad. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Unidades de traslado de personal. </source>
+        <target> - 24 hour supervision. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Constant personnel training. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Quality measurement. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - Personnel transfer units. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
-          <context context-type="linenumber">41,46</context>
+          <context context-type="linenumber">43,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2432406668160577563" datatype="html">
+        <source>Unidades de traslado</source>
+        <target>Personnel transfer units</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9040621299939166839" datatype="html">
+        <source>Nuestras instalaciones</source>
+        <target>Our facilities</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about-us-section/about-us-section.component.html</context>
+          <context context-type="linenumber">60,61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5952658735763058093" datatype="html">
